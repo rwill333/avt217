@@ -1,0 +1,36 @@
+*{
+  box-sizing: border-box;
+}
+.court {
+  width: 900px;
+  margin: auto;
+}
+
+.single {
+  width: 600px;
+  float: left;
+}
+
+.side {
+  width: 150px;
+  height: 600px;
+  background-color: navy;
+  float: left;
+  border: 5px solid white;
+}
+
+.back {
+  width: 600px;
+  height: 200px;
+  background-color: navy;
+  float: left;
+  border: 5px solid white;
+}
+
+.service {
+  width: 300px;
+  height: 400px;
+  background-color: navy;
+  float: left;
+  border: 5px solid white;
+}

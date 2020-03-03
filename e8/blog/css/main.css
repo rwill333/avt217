@@ -1,0 +1,34 @@
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+.header {
+  width: 900px;
+  height: 100px;
+  background-color: tomato;
+  float: left;
+}
+
+.post {
+  width: 700px;
+  height: 400px;
+  background-color: tomato;
+  float: left;
+  margin: 100px 25px 25px 0;
+}
+
+.image {
+  width: 175px;
+  height: 200px;
+  background-color: tomato;
+  float: left;
+  margin: 100px 0 0;
+}
+
+.post-footer {
+  width: 700px;
+  height: 50px;
+  background-color: tomato;
+  float: left;
+}

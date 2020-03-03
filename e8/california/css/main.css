@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+.container {
+  width: 1000px;
+  margin: auto;
+}
+
+.quarter {
+  width: 200px;
+  height: 600px;
+  float: left;
+}
+
+.small {
+  width: 100px;
+  height: 200px;
+  background-color: lavender;
+  float: left;
+  border: 5px solid white;
+}
+
+.medium {
+  width: 100px;
+  height: 400px;
+  background-color: lavender;
+  float: right;
+  border: 5px solid white;
+}
+
+.big {
+  width: 200px;
+  height: 400px;
+  background-color: lavender;
+  float: left;
+  border: 5px solid white;
+}
+
+.biggest {
+  width: 200px;
+  height: 600px;
+  background-color: lavender;
+  float: left;
+  border: 5px solid white;
+}
